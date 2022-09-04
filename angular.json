@@ -20,6 +20,7 @@
             "outputPath": "dist/angular-material-experimental-demo",
             "index": "src/index.html",
             "main": "src/main.ts",
+            "baseHref": "/angular-material-experimental-demo/",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "inlineStyleLanguage": "scss",
@@ -114,6 +115,9 @@
               "src/**/*.html"
             ]
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }

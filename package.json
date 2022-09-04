@@ -22,6 +22,7 @@
     "@angular/platform-browser": "^14.0.0",
     "@angular/platform-browser-dynamic": "^14.0.0",
     "@angular/router": "^14.0.0",
+    "angular-cli-ghpages": "^1.0.3",
     "material-components-web": "^14.0.0",
     "material-spirit": "0.0.0-alpha.5",
     "rxjs": "~7.5.0",
