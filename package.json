@@ -1,6 +1,6 @@
 {
   "name": "angular-material-experimental-demo",
-  "version": "0.0.0",
+  "version": "14.2.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -18,9 +18,12 @@
     "@angular/core": "^14.0.0",
     "@angular/forms": "^14.0.0",
     "@angular/material": "14.2.0",
+    "@angular/material-experimental": "^14.2.0",
     "@angular/platform-browser": "^14.0.0",
     "@angular/platform-browser-dynamic": "^14.0.0",
     "@angular/router": "^14.0.0",
+    "material-components-web": "^14.0.0",
+    "material-spirit": "0.0.0-alpha.5",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
