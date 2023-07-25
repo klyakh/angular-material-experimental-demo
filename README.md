@@ -5,7 +5,9 @@ Package `material-experimental` contains prototypes and experiments in developme
 Purpose of this app is to demo those experimental versions of Angular Material components. The project is NOT in active development. It is used for occasional experiments.
 
 
---> [DEMO WEBSITE](https://material-spirit.github.io/angular-material-experimental-demo/) <--
+--> [DEMO WEBSITE](https://klyakh.github.io/angular-material-experimental-demo/) <--
+
+
 
 
 ## About the app
